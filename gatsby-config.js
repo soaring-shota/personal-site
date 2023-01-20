@@ -17,7 +17,7 @@ module.exports = {
     author: {
       name: `Dennis Williams`,
       intro: `Hi, I am Dennis Williams, a Full Stack Engineer`,
-      url: ``,
+      url: `https://dennis-personal.onrender.com/`,
       email: `pegasusxnwn@gmail.com`,
     },
     social: [
@@ -113,7 +113,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://akimotoakira.personal.com`,
+        siteUrl: `https://dennis-personal.onrender.com/`,
       },
     },
     {

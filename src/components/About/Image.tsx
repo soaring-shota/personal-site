@@ -1,5 +1,5 @@
-import React from 'react';
-import styled from 'styled-components';
+import React from "react";
+import styled from "styled-components";
 
 const StyledPicture = styled.picture`
   grid-area: 1 / 4 / last-line / end;
@@ -7,7 +7,7 @@ const StyledPicture = styled.picture`
   overflow: hidden;
 
   &::before {
-    content: '';
+    content: "";
     padding-top: 150%;
     display: block;
     ${(props) => props.theme.media.max.sm`
@@ -44,7 +44,7 @@ const StyledImage = styled.img`
 const Image: React.FC = () => {
   return (
     <StyledPicture>
-      <StyledImage src='../../../images/akimoto_akira_meta_image.jpg' />
+      <StyledImage src="../../../images/meta_image.jpg" />
     </StyledPicture>
   );
 };
