@@ -6,7 +6,7 @@ export const components = {
     },
   },
   intro: {
-    title: `Hi, I am Dennis Williams from United States, Full Stack Engineer`,
+    title: `Hi, I am Dennis Williams in California, Full Stack Engineer`,
   },
   notFound: {
     notFoundImageSrc: `../../../images/sup_seal.gif`,
