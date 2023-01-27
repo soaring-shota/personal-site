@@ -7,7 +7,7 @@ import Intro from "../Intro";
 export const Wrapper = styled.section`
   display: grid;
   grid-template-columns: repeat(8, 1fr);
-  grid-template-rows: repeat(5, 1fr);
+  grid-template-rows: repeat(4, 1fr);
   position: relative;
   ${(props) => props.theme.media.max.sm`
     grid-template-columns: 100%;

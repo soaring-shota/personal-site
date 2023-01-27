@@ -130,7 +130,24 @@ interface StaticQueryData {
 }
 
 export const Menu: React.FC = () => {
-  const pages = [`works`, `about`];
+  const pages = [
+    {
+      url: `about`,
+      displayName: `about`,
+    },
+    {
+      url: `works`,
+      displayName: `Latest`,
+    },
+    {
+      url: `blog`,
+      displayName: `Blogs`,
+    },
+    {
+      url: `projects`,
+      displayName: `Projects`,
+    },
+  ];
   const { site }: StaticQueryData = useStaticQuery(
     graphql`
       query {
@@ -163,11 +180,11 @@ export const Menu: React.FC = () => {
       </Nav>
       <Nav>
         <NavItem>
-          <NavLink to="/">Index</NavLink>
+          <NavLink to="/">Home</NavLink>
         </NavItem>
         {pages.map((page) => (
-          <NavItem key={page}>
-            <NavLink to={`/${page}`}>{page}</NavLink>
+          <NavItem key={page.url}>
+            <NavLink to={`/${page.url}`}>{page.displayName}</NavLink>
           </NavItem>
         ))}
       </Nav>

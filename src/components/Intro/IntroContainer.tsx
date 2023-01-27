@@ -1,6 +1,6 @@
-import React from 'react';
-import Intro from './Intro';
-import { components } from '../../data';
+import React from "react";
+import Intro from "./Intro";
+import { components } from "../../data";
 
 interface IntroContainerProps {
   fixed: boolean;

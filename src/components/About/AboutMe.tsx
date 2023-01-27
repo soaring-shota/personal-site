@@ -18,7 +18,24 @@ const AboutMe: React.FC = () => {
   return (
     <Content>
       <p>
-        I enjoy life and have fun going on adventures, doing software
+        I am a full stack engineer who brings strong skills in collaboration and
+        detail-oriented processes and all of which I strive to use to increase
+        productivity, organization and efficiency.
+      </p>
+
+      <p>
+        I specialize in React and Vue.js for frontend development and
+        Node.js/Express.js and Django, Laravel for backend development.
+      </p>
+
+      <p>
+        Also I am good at development for Smart Contracts, Web3-backend, Crypto
+        Payment systems & wallets, P2E games, NFT marketplaces, Betting &
+        Trading platforms and Defi projects.
+      </p>
+
+      <p>
+        Personally I enjoy life and have fun going on adventures, doing software
         development, meeting new people, helping others, learning new things,
         improving myself, trying new foods, visiting new places, opening my
         mind, achieving my goals, and doing sports (running, hiking, and
@@ -52,7 +69,7 @@ const AboutMe: React.FC = () => {
         &nbsp;among other technologies. I use it as a place to share what I
         learn and do.
       </p>
-      <p>
+      {/* <p>
         <a
           href="../../../files/resume.pdf"
           target="_blank"
@@ -61,7 +78,7 @@ const AboutMe: React.FC = () => {
           Here is my resume
         </a>
         &nbsp;in case you want to have a look.
-      </p>
+      </p> */}
       <p>
         You can contact me through them or sending an email to&nbsp;
         <a
