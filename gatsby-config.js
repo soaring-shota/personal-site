@@ -15,18 +15,21 @@ module.exports = {
       process.env.GOOGLE_SITE_VERIFICATION ||
       "Add the Google Site Verification",
     author: {
-      name: `Dennis Williams`,
-      intro: `Hi, I am Dennis Williams, a Full Stack Engineer`,
-      url: `https://dennis-personal.onrender.com/`,
-      email: `pegasusxnwn@gmail.com`,
+      name: `Yuma Hayashi`,
+      intro: `Hi, I am Yuma Hayashi, a Full Stack Blockchain Engineer`,
+      url: `https://yuma-personal.onrender.com/`,
+      email: `piscesyuma@gmail.com`,
     },
     social: [
-      { name: `GitHub`, socialUrl: `https://github.com/pegasussx` },
-      { name: `Codepen`, socialUrl: `https://codepen.io/asmoteus` },
+      { name: `+1 281 941 5662`}, 
+      { name: `Linkedin`, socialUrl: `https://www.linkedin.com/in/yuma-hayashi`},
+      { name: `Telegram`, socialUrl: `https://t.me/piscesyuma`},
       {
         name: `Gmail`,
-        socialUrl: `mailto:pegasusxnwn@gmail.com?subject=Hi%20there!`,
+        socialUrl: `mailto:piscesyuma@gmail.com?subject=Hi%20Yuma!`,
       },
+      { name: `GitHub`, socialUrl: `https://github.com/piscesyuma` },
+      // { name: `Codepen`, socialUrl: `https://codepen.io/asmoteus` },
     ],
   },
   plugins: [
@@ -119,7 +122,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Dennis Williams`,
+        name: `Yuma Hayashi`,
         short_name: `Personal Site`,
         start_url: `/`,
         background_color: `#255799`,

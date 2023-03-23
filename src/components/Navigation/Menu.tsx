@@ -143,10 +143,7 @@ export const Menu: React.FC = () => {
       url: `blog`,
       displayName: `Blogs`,
     },
-    {
-      url: `projects`,
-      displayName: `Projects`,
-    },
+    
   ];
   const { site }: StaticQueryData = useStaticQuery(
     graphql`

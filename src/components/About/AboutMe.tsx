@@ -18,24 +18,23 @@ const AboutMe: React.FC = () => {
   return (
     <Content>
       <p>
-        I am a full stack engineer who brings strong skills in collaboration and
-        detail-oriented processes and all of which I strive to use to increase
-        productivity, organization and efficiency.
+          I am an experienced blockchain and full stack developer with over 
+        8 years of expertise in the industry, specialized in Cosmos SDK and 
+        proficient in Golang and Rust languages, with deep knowledge in both.
       </p>
 
       <p>
-        I specialize in React and Vue.js for frontend development and
+        I also specialized in React and Next.js for frontend development and
         Node.js/Express.js and Django, Laravel for backend development.
       </p>
 
       <p>
-        Also I am good at development for Smart Contracts, Web3-backend, Crypto
-        Payment systems & wallets, P2E games, NFT marketplaces, Betting &
-        Trading platforms and Defi projects.
+        Adept at designing and implementing complex systems with a focus on delivering 
+        efficient and effective solutions.
       </p>
 
       <p>
-        Personally I enjoy life and have fun going on adventures, doing software
+        Personally I love family (wife & 3 years old princess) and enjoy life ,have fun going on adventures, doing software
         development, meeting new people, helping others, learning new things,
         improving myself, trying new foods, visiting new places, opening my
         mind, achieving my goals, and doing sports (running, hiking, and
@@ -83,9 +82,9 @@ const AboutMe: React.FC = () => {
         You can contact me through them or sending an email to&nbsp;
         <a
           rel="noopener"
-          href="mailto:pegasusxnwn@gmail.com?subject=Hi%20there!"
+          href="mailto:piscesyuma@gmail.com?subject=Hi%20Yuma~"
         >
-          pegasusxnwn@gmail.com
+          piscesyuma@gmail.com
         </a>
       </p>
     </Content>

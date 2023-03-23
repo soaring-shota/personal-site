@@ -6,7 +6,7 @@ export const components = {
     },
   },
   intro: {
-    title: `Hi, I am Dennis Williams in California, Full Stack Engineer`,
+    title: `This is Yuma Hayashi, Full Stack Blockchain Engineer`,
   },
   notFound: {
     notFoundImageSrc: `../../../images/sup_seal.gif`,

@@ -99,7 +99,7 @@ Run ESLint on the project to report wrong patterns on the code, and the second o
 
 ## Authors
 
-- **Dennis Williams** - _Initial work_ - [reymon359](https://github.com/reymon359)
+- **Yuma Hayashi** - _Initial work_ - [piscesyuma](https://github.com/piscesyuma)
 
 <!-- Credits -->
 

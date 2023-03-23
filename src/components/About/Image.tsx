@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 const StyledPicture = styled.picture`
-  grid-area: 1 / 4 / last-line / end;
+  grid-area: 1 / 3 / last-line / end;
   position: relative;
   overflow: hidden;
 

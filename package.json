@@ -3,7 +3,7 @@
   "private": true,
   "description": "A Gatsby Typescript project for my personal site",
   "version": "1.0.0",
-  "author": "Ramon Morcillo @reymon359",
+  "author": "Yuma Hayashi @piscesyuma",
   "scripts": {
     "build": "gatsby build",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",

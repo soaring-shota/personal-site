@@ -66,7 +66,7 @@ const Intro: React.FC<IntroProps> = ({ fixed }) => {
   return (
     <Wrapper fixed={fixed}>
       <Title>
-        Hi, I am Dennis Williams <br /> a Full Stack Engineer, in California
+        This is Yuma Hayashi <br /> a Full Stack Blockchain Engineer, in Germany
       </Title>
     </Wrapper>
   );

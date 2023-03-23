@@ -58,7 +58,7 @@ const Item = styled.div<ItemProps>`
 const Footer = () => (
   <FooterWrapper>
     <Item position="left">
-      <span>Dennis Williams - {new Date().getFullYear()} - </span>
+      <span>Yuma Hayashi - {new Date().getFullYear()} - </span>
       {" personal"}
       {/* <a
         href="https://github.com/reymon359/gatsby-personal-site/"
