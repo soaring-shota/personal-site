@@ -7,7 +7,7 @@ import Head from "../components/Head";
 import Stars from "../components/Stars";
 import Content from "../components/Content";
 import { Header, Title, Description, ItemTags, Tag } from "../styles";
-import Comments from "../components/Comments";
+// import Comments from "../components/Comments";
 
 interface Props {
   readonly data: PageQueryData;
