@@ -28,7 +28,7 @@ module.exports = {
         name: `Gmail`,
         socialUrl: `mailto:piscesyuma@gmail.com?subject=Hi%20Yuma!`,
       },
-      { name: `GitHub`, socialUrl: `https://github.com/piscesyuma` },
+      // { name: `GitHub`, socialUrl: `https://github.com/piscesyuma` },
       // { name: `Codepen`, socialUrl: `https://codepen.io/asmoteus` },
     ],
   },
