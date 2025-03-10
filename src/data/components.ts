@@ -6,7 +6,7 @@ export const components = {
     },
   },
   intro: {
-    title: `This is Yuma Hayashi, Full Stack Blockchain Engineer`,
+    title: `This is Shota Kojima, Software Engineer`,
   },
   notFound: {
     notFoundImageSrc: `../../../images/sup_seal.gif`,

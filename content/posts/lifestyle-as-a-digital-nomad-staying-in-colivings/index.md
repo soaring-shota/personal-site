@@ -3,7 +3,7 @@ id: "lifestyle-as-a-digital-nomad-staying-in-colivings"
 title: "Lifestyle as a digital nomad staying in colivings"
 description: "Information and resources about coliving and traveling as a digital nomad."
 date: "2021-09-20"
-author: "Dennis Williams"
+author: "Shota Kojima"
 tags: ["Adventures", "Digital nomad", "Coliving", "Coronavirus"]
 published: true
 commentsUrl:

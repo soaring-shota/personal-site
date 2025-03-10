@@ -3,7 +3,7 @@ id: "how-to-organize-yourself-to-get-things-done"
 title: "How to organize yourself to get things done"
 description: "An article about how I organize my time to achieve my goals."
 date: "2021-11-26"
-author: "Dennis Williams"
+author: "Shota Kojima"
 tags: ["Productivity", "Goals", "Time management", "Life"]
 published: true
 commentsUrl:

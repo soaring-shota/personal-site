@@ -3,7 +3,7 @@ id: "a-trip-to-the-french-alps"
 title: "A trip to the French Alps"
 description: "Trip to the French Alps, Lyon, Chamonix Mont-Blanc, and Turin."
 date: "2020-10-03"
-author: "Dennis Williams"
+author: "Shota Kojima"
 tags: ["Adventures", "Trips", "City", "Nature"]
 published: true
 commentsUrl:

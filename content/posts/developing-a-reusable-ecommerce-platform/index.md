@@ -3,7 +3,7 @@ id: "developing-a-reusable-ecommerce-platform"
 title: "Developing a reusable ecommerce platform"
 description: "Process and lessons learned from the development of a reusable ecommerce platform."
 date: "2022-05-23"
-author: "Dennis Williams"
+author: "Shota Kojima"
 tags:
   ["Software Development", "Ecommerce", "Architecture", "Teamwork", "GraphQL"]
 published: true

@@ -33,18 +33,28 @@ const StyledImage = styled.img`
   bottom: -100%;
   left: -100%;
   mix-blend-mode: lighten;
-  opacity: 0.5;
+  opacity: 0.6;
   display: block;
   object-fit: cover;
+  transition: opacity 0.3s ease;
+  
   ${(props) => props.theme.media.max.sm`
-      opacity: 0.7;
-    `}
+    opacity: 0.8;
+  `}
+  
+  &:hover {
+    opacity: 0.8;
+  }
 `;
 
 const Image: React.FC = () => {
   return (
     <StyledPicture>
-      <StyledImage src="../../../images/meta_image.jpg" />
+      <StyledImage 
+        src="../../../images/33.png" 
+        alt="Profile" 
+        loading="lazy"
+      />
     </StyledPicture>
   );
 };

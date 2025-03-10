@@ -66,7 +66,7 @@ const Intro: React.FC<IntroProps> = ({ fixed }) => {
   return (
     <Wrapper fixed={fixed}>
       <Title>
-        This is Yuma Hayashi <br /> a Full Stack Blockchain Engineer, in Germany
+        Hi, I am Shota 👋
       </Title>
     </Wrapper>
   );

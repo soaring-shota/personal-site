@@ -3,7 +3,7 @@ id: "traveling-through-the-canary-islands-an-in-depth-guide-to-the-canary-island
 title: "Traveling through The Canary Islands: An in-depth guide to the Canary Islands"
 description: "A compilation of personal knowledge from the Canary Islands to help people get to know them better"
 date: "2021-03-18"
-author: "Dennis Williams"
+author: "Shota Kojima"
 tags: ["Adventures", "Trips", "Canary Islands", "Guide"]
 published: true
 commentsUrl:

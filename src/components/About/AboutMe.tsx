@@ -18,27 +18,28 @@ const AboutMe: React.FC = () => {
   return (
     <Content>
       <p>
-          I am an experienced blockchain and full stack developer with over 
-        8 years of expertise in the industry, specialized in Cosmos SDK and 
-        proficient in Golang and Rust languages, with deep knowledge in both.
+        I am a Senior Blockchain Engineer with over 6 years of specialized experience in blockchain 
+        architecture and smart contract development across multiple ecosystems including EVM, Cosmos, 
+        Polkadot Substrate, and Solana.
       </p>
 
       <p>
-        I also specialized in React and Next.js for frontend development and
-        Node.js/Express.js and Django, Laravel for backend development.
+        My expertise includes building comprehensive blockchain solutions such as DEX, DeFi protocols, 
+        staking mechanisms, and NFT marketplaces. I'm proficient in Rust, Solidity, Go, and other 
+        blockchain development languages, with deep knowledge in zero-knowledge proofs and layer-2 solutions.
       </p>
 
       <p>
-        Adept at designing and implementing complex systems with a focus on delivering 
-        efficient and effective solutions.
+        For frontend development, I specialize in React and Next.js, while my backend skills include 
+        Node.js/Nest.js and various database technologies. I'm adept at designing and implementing 
+        complex systems with a focus on delivering efficient and secure solutions.
       </p>
 
       <p>
-        Personally I love family (wife & 3 years old princess) and enjoy life ,have fun going on adventures, doing software
-        development, meeting new people, helping others, learning new things,
-        improving myself, trying new foods, visiting new places, opening my
-        mind, achieving my goals, and doing sports (running, hiking, and
-        boardsports mainly).
+        Personally, I love spending time with my family (wife & 6-year-old princess) and enjoy life 
+        by going on adventures, doing software development, meeting new people, helping others, learning 
+        new things, improving myself, trying new foods, visiting new places, opening my mind, achieving 
+        my goals, and doing sports (running, hiking, and boardsports mainly).
       </p>
 
       <p>
@@ -82,9 +83,9 @@ const AboutMe: React.FC = () => {
         You can contact me through them or sending an email to&nbsp;
         <a
           rel="noopener"
-          href="mailto:piscesyuma@gmail.com?subject=Hi%20Yuma~"
+          href="mailto:soaring.shota@gmail.com?subject=Hi%20Shota~"
         >
-          piscesyuma@gmail.com
+          soaring.shota@gmail.com
         </a>
       </p>
     </Content>
