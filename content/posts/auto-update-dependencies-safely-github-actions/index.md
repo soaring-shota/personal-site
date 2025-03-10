@@ -3,7 +3,7 @@ id: "using-github-actions-and-renovate-to-safely-update-dependencies-automatical
 title: "Using GitHub Actions and Renovate to safely update dependencies automatically"
 description: "Keeping your project dependencies updated the right way"
 date: "2020-07-24"
-author: "Dennis Williams"
+author: "Shota Kojima"
 tags:
   ["Software Development", "DevOps", "Tutorial", "GitHub", "Maintainability"]
 published: true

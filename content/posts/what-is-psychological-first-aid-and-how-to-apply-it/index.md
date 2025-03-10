@@ -3,7 +3,7 @@ id: "what-is-psychological-first-aid-and-how-to-apply-it"
 title: "What is Psychological First Aid and how to apply it"
 description: "Key concepts on Psychological First Aid to help people in the immediate aftermath of a disaster"
 date: "2021-02-18"
-author: "Dennis Williams"
+author: "Shota Kojima"
 tags: ["Psychology", "Tutorial", "Learning", "Health"]
 published: true
 commentsUrl:

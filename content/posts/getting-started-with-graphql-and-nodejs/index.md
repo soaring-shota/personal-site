@@ -3,7 +3,7 @@ id: "getting-started-with-graphql-and-nodejs"
 title: "Getting started with GraphQL and Node.js"
 description: "Hello World Client Server project to explain how GraphQL Works."
 date: "2020-04-14"
-author: "Dennis Williams"
+author: "Shota Kojima"
 tags: ["Software Development", "Tutorial", "Node.js", "GraphQL", "Apollo"]
 published: true
 commentsUrl:

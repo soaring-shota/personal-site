@@ -3,7 +3,7 @@ id: "managing-the-infrastructure-of-a-reusable-ecommerce-platform-with-terraform
 title: "Managing the infrastructure of a reusable ecommerce platform with Terraform"
 description: "Advice to manage the infrastructure of an ecommerce platform in Azure with Terraform."
 date: "2021-06-03"
-author: "Dennis Williams"
+author: "Shota Kojima"
 tags: ["Software Development", "Azure", "DevOps", "Ecommerce", "Terraform"]
 published: true
 commentsUrl:

@@ -10,25 +10,25 @@ module.exports = {
     title: `Personal Site`,
     description: `My personal site made with Gatsby.js`,
     siteUrl: `https://dev.personal.com`,
-    image: `/images/meta_image.jpg`,
+    image: `/images/9.png`,
     googleSiteVerification:
       process.env.GOOGLE_SITE_VERIFICATION ||
       "Add the Google Site Verification",
     author: {
-      name: `Yuma Hayashi`,
-      intro: `Hi, I am Yuma Hayashi, a Full Stack Blockchain Engineer`,
-      url: `https://yuma-personal.onrender.com/`,
-      email: `piscesyuma@gmail.com`,
+      name: `Shota Kojima`,
+      intro: `Hi, I am Shota Kojima, a Software Engineer`,
+      url: `https://shota-personal.onrender.com/`,
+      email: `soaring.shota@gmail.com`,
     },
     social: [
-      { name: `+1 281 941 5662`}, 
-      { name: `Linkedin`, socialUrl: `https://www.linkedin.com/in/yuma-hayashi`},
-      { name: `Telegram`, socialUrl: `https://t.me/piscesyuma`},
+      // { name: `+81 73-235-7423`}, 
+      { name: `Linkedin`, socialUrl: `https://www.linkedin.com/in/shota-kojima`},
+      { name: `GitHub`, socialUrl: `https://github.com/soaring-shota` },
+      { name: `Telegram`, socialUrl: `https://t.me/sky_shota`},
       {
         name: `Gmail`,
-        socialUrl: `mailto:piscesyuma@gmail.com?subject=Hi%20Yuma!`,
+        socialUrl: `mailto:soaring.shota@gmail.com?subject=Hi%20Shota!`,
       },
-      // { name: `GitHub`, socialUrl: `https://github.com/piscesyuma` },
       // { name: `Codepen`, socialUrl: `https://codepen.io/asmoteus` },
     ],
   },
@@ -122,7 +122,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Yuma Hayashi`,
+        name: `Shota Kojima`,
         short_name: `Personal Site`,
         start_url: `/`,
         background_color: `#255799`,

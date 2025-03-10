@@ -3,7 +3,7 @@ id: "in-case-i-die"
 title: "In case I die"
 description: "Thoughts about death for the people that care for me."
 date: "2022-10-03"
-author: "Dennis Williams"
+author: "Shota Kojima"
 tags: ["Life", "Death", "Philosophy"]
 published: true
 commentsUrl:
